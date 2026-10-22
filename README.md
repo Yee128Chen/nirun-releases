@@ -6,7 +6,7 @@
 
 到 [Releases](https://github.com/Yee128Chen/nirun-releases/releases/latest) 下载最新版：
 
-- **Windows 10/11**：`润Nirun_0.1.4_x64_setup.exe`
+- **Windows 10/11**：`Nirun_0.1.4_x64_setup.exe`
 - **macOS（Apple Silicon / M 系列）**：`Nirun-0.1.4-arm64.dmg`
 - 免安装 Windows 版：`Nirun-0.1.4.exe`
 
